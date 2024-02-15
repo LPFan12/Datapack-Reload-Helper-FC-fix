@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "pack_format": 26,
+        "supported_formats": [4,26],
+        "description": "Pop up a \u00a7aprompt\u00a7r when datapack reloading is complete."
+    }
+}

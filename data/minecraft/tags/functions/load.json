@@ -1,0 +1,6 @@
+{
+    "replace": false,
+    "values": [
+        "datapack_reload_helper:load"
+    ]
+}

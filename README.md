@@ -1,5 +1,4 @@
 # Datapack-Reload-Helper
-### Pop up a prompt when datapack reloading is complete.
 
 This mod/datapack will **pop up a prompt** when datapack reloading is complete.
 
